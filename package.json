@@ -1,5 +1,5 @@
 {
-  "name": "use-lottie",
+  "name": "@vaclav.zeman/use-lottie",
   "version": "0.0.1",
   "description": "lottie-web react hook",
   "main": "build/index.js",
@@ -16,5 +16,17 @@
     "@babel/preset-env": "^7.4.2",
     "lottie-web": "^5.5.0",
     "react": "^16.8.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaclav-zeman/use-lottie.git"
+  },
+  "keywords": [
+    "lottie-web",
+    "react-hooks"
+  ],
+  "bugs": {
+    "url": "https://github.com/vaclav-zeman/use-lottie/issues"
+  },
+  "homepage": "https://github.com/vaclav-zeman/use-lottie#readme"
 }
